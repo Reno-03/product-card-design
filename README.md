@@ -47,10 +47,6 @@ This project helped me practice and master:
 - **Spacing**: Consistent use of gaps and padding for visual hierarchy
 - **Interactions**: 1.05x scale transform on hover with shadow enhancement
 
-## 🚀 How to View
-
-Simply open `index.html` in your web browser. No build process or dependencies required!
-
 ## 📂 Project Structure
 ```
 product-card-design/
@@ -68,9 +64,6 @@ product-card-design/
 - Add product quick-view modal
 - Integrate with a backend for dynamic product loading
 
-## 📸 Screenshots
-
-*The page displays 8 smartphone products (iPhone XR, Pixel 7, Galaxy S21, iPhone 13, Pixel 6, OnePlus 9, Mi 11) in a responsive grid layout with pricing, ratings, and "Add to Cart" buttons.*
 
 ## 👨‍💻 About
 
