@@ -2,11 +2,12 @@
 
 A clean and modern product card layout showcasing smartphone listings with interactive hover effects and responsive design.
 
-## 🌐 Live Demo
+## 🌐 Live Demo & Preview
 
 **[View Live Project](https://reno-03.github.io/product-card-design/)**
 
-*Experience the interactive hover effects and responsive layout in action!*
+![Product Cards Preview](screenshots/live.png)
+*Responsive smartphone product cards with hover effects and clean UI design*
 
 ## 🎯 Project Overview
 
